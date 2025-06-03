@@ -1,0 +1,7 @@
+Take note
+task1 is lab1
+task2 is lab2
+task3 is lab3
+task4 is lab4
+task5 is lab5
+task6 is lab6
